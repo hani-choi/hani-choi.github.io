@@ -7,3 +7,4 @@ signature: assets/images/about/signature.png
 ---
 
 안뇽 하니예요
+잘 부탁드립니다!
