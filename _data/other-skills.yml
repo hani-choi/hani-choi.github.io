@@ -1,0 +1,7 @@
+- name: Figma
+  percentage: 95
+  color: info
+
+- name: Adobe XD
+  percentage: 90
+  color: success
