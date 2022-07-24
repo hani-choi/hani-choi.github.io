@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : hani
 description         : >-
-                      넨구다
-                      넹넹구다
-                      넹구는 최고시다.
+                      Product Designer
+                      Based in Seoul
+                      :)
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          :      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
